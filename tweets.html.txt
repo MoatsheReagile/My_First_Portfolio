@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Tweets</title>
+</head>
+<body>
+    <h1>My Embedded Tweets</h1>
+    
+    <p>Here are some of my favorite tweets:</p>
+    
+    <!-- Example tweet embed - you'll replace this with real tweet code -->
+    <blockquote class="twitter-tweet">
+        <p lang="en" dir="ltr">Example tweet text would go here</p>
+        &mdash; Example User (@example) <a href="https://twitter.com/example/status/1234567890">Date</a>
+    </blockquote> 
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+    <p><a href="index.html">← Go back to homepage</a></p>
+</body>
+</html>
